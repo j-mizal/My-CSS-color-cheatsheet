@@ -1,0 +1,180 @@
+table, tr, td, th {
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+th {
+    color:white; 
+    background-color: gray;
+}
+
+#white {
+    background-color: white;
+}
+
+#black {
+    background-color: black;
+}
+
+#gray {
+    background-color: gray;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+table {
+    margin: 80px auto;
+}
+
+.tabletitle {
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+
+#pink {
+    background-color: pink;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#teal {
+    background-color: teal;
+}
+
+#navy {
+    background-color: navy;
+}
+
+#darkslategray {
+    background-color: darkslategray;
+}
+
+#Antiquewhite {
+    background-color: antiquewhite;
+}
+
+#gold {
+    background-color: gold;
+}
+
+#ghostwhite {
+    background-color: ghostwhite;
+}
+
+#lemonchiffon {
+    background-color: lemonchiffon;
+}
+
+#maroon {
+    background-color: maroon;
+}
+
+#seagreen {
+    background-color: seagreen;
+}
+
+#yellowgreen {
+    background-color: yellowgreen;
+}
+
+#beige {
+    background-color: beige;
+}
+
+#divothercolors {
+    display: inline-block;
+    padding: 0 50px;
+   
+  
+    
+}
+
+#divlesscommon {
+    display: inline-block;
+    padding: 0 50px;
+  
+    
+    
+}
+
+#divlesscommon, 
+#divothercolors {
+    text-align: center;
+    
+
+}
+
+.container {
+    padding: 0 250px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px 0;
+    background-color: seagreen;
+    color: beige;
+    text-shadow: 2px 2px 1px black;
+    font-size: 50px;
+    
+    
+}
+
+h3 {
+    position: absolute;
+    left: 1100px;
+    bottom: 750px;
+    color: ghostwhite;
+    text-shadow: 1px 1px 1px black;
+  
+}
+
+h1, h3 {
+    font-family: 'Permanent Marker', calibri;
+}
+
+@font-face {
+    font-family: 'Permanent Marker';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Cfw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  #divprimary {
+    padding-top: 100px;
+  }
+
+  h2, td, th {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+
+  th {
+    text-transform: uppercase;
+  }
+
+  body {
+    background-color:aliceblue;
+  }
